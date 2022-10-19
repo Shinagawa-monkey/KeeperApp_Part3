@@ -5,7 +5,7 @@ import { Fab, Zoom } from "@mui/material";
 //import Fab from "@mui/material/Fab";
 //import Zoom from "@mui/material/Zoom";
 
-function CreateArea(props) {
+export default function CreateArea(props) {
   const [note, setNote] = useState({
     title: "",
     content: ""
@@ -64,4 +64,4 @@ function CreateArea(props) {
   );
 }
 
-export default CreateArea;
+// export default CreateArea;
