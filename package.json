@@ -2,7 +2,12 @@
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    // "Internet Computer",
+    // "Motoko",
+    // "JavaScript",
+    // "Canister"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "@emotion/react": "11.10.4",
